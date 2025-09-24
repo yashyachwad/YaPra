@@ -14,7 +14,7 @@ import code_icon from './code_icon.png'
 import send_icon from './send_icon.png'
 import gemini_icon from './gemini_icon.png'
 import yash from './yash.png'
-import logo from './logo.png'
+
 
 export const assets = {
     history_icon,
@@ -32,6 +32,5 @@ export const assets = {
     code_icon,
     send_icon,
     gemini_icon,
-    yash,
-    logo
+    yash
 }
