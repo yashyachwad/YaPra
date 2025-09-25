@@ -14,7 +14,7 @@ function toggleTheme(){
   return (
     <div className={`main ${theme}-theme`}>
         <div className="nav">
-           <i><b> <p> YaPra </p> </b></i> 
+           <b> <p> YaPra </p> </b> 
             <img onClick={toggleTheme}  src={assets.yash} alt="" />
         </div>
 
